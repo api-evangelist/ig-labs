@@ -1,0 +1,82 @@
+{
+    "name": "IG Labs",
+    "description": "IG is the world-leading provider of contracts for difference (CFDs) and financial spread betting, and the UK's largest forex provider.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10097-ig-labs.jpg",
+    "tags": [
+        "api provider",
+        "financial",
+        "financial services",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/ig-labs\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "IG Labs",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10097-ig-labs.jpg",
+            "humanURL": "http:\/\/ig.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ig-labs-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/ig-4"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/labs.ig.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "newaccounts.bg@ig.com"
+        },
+        {
+            "type": "Email",
+            "url": "newaccounts.cy@ig.com"
+        },
+        {
+            "type": "Email",
+            "url": "newaccounts.cz@ig.com"
+        },
+        {
+            "type": "Email",
+            "url": "newaccounts.dk@ig.com"
+        },
+        {
+            "type": "Email",
+            "url": "newaccounts.hr@ig.com"
+        },
+        {
+            "type": "Email",
+            "url": "info.de@ig.com"
+        },
+        {
+            "type": "Email",
+            "url": "kundenberatung.de@ig.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/IGcom"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/IGLabs"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/ig.com"
+        }
+    ]
+}
